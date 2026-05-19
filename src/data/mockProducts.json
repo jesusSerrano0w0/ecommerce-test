@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Laptop Gamer Pro",
+    "price": 1850000,
+    "category": "tecnología",
+    "description": "Portátil HP Gaming Victus 15-fb2019la AMD Ryzen 7 16GB RAM 1TB SSD Windows 11 Home Single Language 15.6 GPU NVIDIA GeForce RTX 4050",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_701665-MCO111832191887_052026-F.webp"
+  },
+  {
+    "id": 2,
+    "title": "Audífonos Inalámbricos Con Noise Cancelling Wh-ch720n Color Negro",
+    "price": 449956,
+    "category": "tecnología",
+    "description": "Auriculares inalámbricos con cancelación de ruido y hasta 30 horas de batería.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_774264-MLA100048207339_122025-F.webp"
+  },
+  {
+    "id": 3,
+    "title": "Smartwatch Huawei Watch 5 de 42 mm Verde con eSIM y GPS",
+    "price": 1371902,
+    "category": "tecnología",
+    "description": "Reloj inteligente con monitor de ritmo cardíaco, GPS y resistencia al agua.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_787222-MLA92983436148_092025-F.webp"
+  },
+  {
+    "id": 4,
+    "title": "Logitech Teclado Gamer Mecánico G513 Carbón / Lightsync Rgb Teclado Negro Idioma Inglés US",
+    "price": 649900,
+    "category": "tecnología",
+    "description": "Teclado mecánico con switches personalizables e iluminación RGB programable.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_618635-MLA99591389906_122025-F.webp"
+  },
+  {
+    "id": 5,
+    "title": "Logitech G305, Mouse Gamer Inalámbrico / 12000dpi - Negro Color Black",
+    "price": 154980,
+    "category": "tecnología",
+    "description": "Mouse ergonómico con sensor de alta precisión y batería de larga duración.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_926274-MLA110512132739_042026-F.webp"
+  },
+  {
+    "id": 6,
+    "title": "Monitor Gamer LG 32 Ultrafine 4k Va 60hz 4ms (gtg) 32ur550k Color Negro",
+    "price": 1850000,
+    "category": "tecnología",
+    "description": "Monitor de 27 pulgadas con resolución 4K, HDR y tasa de refresco de 144Hz.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_633908-MLA96414824908_102025-F.webp"
+  }
+]
